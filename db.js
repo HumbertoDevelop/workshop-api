@@ -1,13 +1,17 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const carrito = require("./data/carrito");
+const cursos = require("./data/cursos");
+const especialidades = require("./data/especialidades");
+const posts = require("./data/posts");
+const signup = require("./data/signup");
+const profesores = require("./data/profesores");
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes
+  carrito,
+  cursos,
+  especialidades,
+  posts,
+  signup,
+  profesores,
 }
 
 
@@ -19,7 +23,7 @@ module.exports = {
 //   tags = [].concat.apply([], tags);
 //   tags = [...new Set(tags)];
 
- 
+
 
 //   var brands = items.map((i) => i.manufacturer);
 //   brands = [...new Set(brands)];

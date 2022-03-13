@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alemán",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Alejandro Magno",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Inglés",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Alejandro Velazquéz",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 20
+  },
+  {
+    "id": 3,
+    "name": "Francés",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Alejandro García",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 60
+  },
+  {
+    "id": 4,
+    "name": "Coreano",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Alejandro Peréz",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 250
+  },
+  {
+    "id": 5,
+    "name": "Italiano",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Daniel Moya",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 230
+  },
+  {
+    "id": 6,
+    "name": "Español",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Humberto García",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 120
+  },
+  {
+    "id": 7,
+    "name": "Español",
+    "picture": "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=2000",
+    "category": "Idiomas Modernos",
+    "pictureTeacher": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
+    "teacher": "Alejandro Rosales",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "price": 80
+  }
+]
