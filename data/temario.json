@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Temas principales:",
+		"objectives": [
+			"Presentación de sí mismo/países/ocupaciones",
+			"El alfabeto y los números",
+			"Idiomas y países",
+			" Gente y pasatiempos",
+			"El trabajo, el lugar de trabajo",
+			"Tiempo libre",
+			"En el hotel",
+			"El mapa de la ciudad",
+			"Comida y bebida/ en el restaurante"
+		]
+	},
+	{
+		"id": 2,
+		"title": "Gramática",
+		"objectives": [
+			"Los pronombres personales y los verbos en tiempo presente",
+			"El grupo de sustantivos: der/die/das",
+			"Los Verbos",
+			"La negación",
+			"Las preposiciones locales",
+			"Los pronombres personales en el acusativo"
+		]
+	}
+]

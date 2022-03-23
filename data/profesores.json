@@ -15,29 +15,29 @@
   },
   {
     "id": 3,
-    "name": "Daniel Moya",
-    "country": "Venezuela",
+    "name": "Francisco Peña",
+    "country": "Argentina",
     "picture": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
     "speciality": "Francés"
   },
   {
     "id": 4,
-    "name": "Daniel Moya",
-    "country": "Venezuela",
+    "name": "Pablo Duke",
+    "country": "Colombia",
     "picture": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
     "speciality": "Alemán"
   },
   {
     "id": 5,
-    "name": "Daniel Moya",
-    "country": "Venezuela",
+    "name": "Robben Musk",
+    "country": "Estados Unidos",
     "picture": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
     "speciality": "Coreano"
   },
   {
     "id": 6,
-    "name": "Daniel Moya",
-    "country": "Venezuela",
+    "name": "Alejandro Martinez",
+    "country": "Corea del sur",
     "picture": "https://cdn.pixabay.com/photo/2016/03/27/17/42/man-1283235_960_720.jpg",
     "speciality": "Italiano"
   }
