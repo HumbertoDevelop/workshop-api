@@ -4,6 +4,7 @@ const especialidades = require("./data/especialidades");
 const posts = require("./data/posts");
 const signup = require("./data/signup");
 const profesores = require("./data/profesores");
+const temario = require("./data/temario");
 
 module.exports = {
   carrito,
@@ -12,6 +13,7 @@ module.exports = {
   posts,
   signup,
   profesores,
+  temario,
 }
 
 
